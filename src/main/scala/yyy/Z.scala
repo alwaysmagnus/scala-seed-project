@@ -1,0 +1,5 @@
+package yyy
+
+class Z {
+
+}
